@@ -1,4 +1,4 @@
-# Puppease
+# Puppease 🚀
 
 # 1.Présentation
 L’application Puppease permettra à tous les maîtres souhaitant faire reproduire son animal (à but non lucratif), de trouver un partenaire à son compagnon canin de manière rapide efficace et adaptée aux critères de recherche.
